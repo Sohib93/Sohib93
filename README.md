@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sohib93
-- 👀 I’m interested in machine learning, AI, and apps development 
+- 👀 I’m interested in machine learning, AI, and app development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on creating app prototypes
 - 📫 How to reach me via E-mail at sohib1234@gmail.com
